@@ -1,0 +1,64 @@
+I want to develop a mobile application (or digital platform) for my aesthetic and wellness clinic that supports a customizable membership and loyalty card system. The app should include a digital wallet, tiered benefits, and integration with Apple Wallet. Please help design the concept, features, user flow, and technical suggestions.
+
+Core Idea:
+Clients can purchase annual memberships that include a preloaded balance (like a treatment bank), exclusive discounts, welcome gifts, and access to VIP experiences. Their membership is represented by a digital card (Apple Wallet compatible) and an optional physical card.
+
+Membership Tiers:
+1. Silver Membership
+– $12,000 MXN / $700 USD balance, valid for 12 months
+– Welcome gift: 1 complimentary skincare product (based on skin type)
+– 5% off all services
+– 5% off non-medical retail products
+– Access to exclusive member-only promotions
+– 1 annual VIP event access
+
+2. Gold Membership
+– $20,000 MXN / $1,150 USD balance, valid for 12 months
+– Welcome gifts:
+  • 1 skincare product
+  • 1 personalized facial treatment
+– 10% off all services
+– 10% off non-medical retail products
+– Priority booking
+– 2 annual VIP event accesses
+
+3. Platinum Membership
+– $30,000 MXN / $1,700 USD balance, valid for 12 months
+– Welcome gifts:
+  • 1 skincare product
+  • 1 premium personalized facial
+  • 1 laser facial (chosen from selected options)
+– 15% off all services
+– 15% off non-medical retail products
+– Exclusive member-only promotions
+– Priority booking
+– Guaranteed invitation to all VIP events
+
+Key App Features:
+Digital Wallet: Clients can preload funds into their account (e.g., $1,000 deposit) and use that balance exclusively at the clinic. The app should show their current balance, transaction history, and expiration dates.
+
+Apple Wallet + Google Wallet Integration: The digital card should be accessible from users' smartphones for easy scanning or check-in.
+
+Membership Dashboard:
+  • Tier level
+  • Benefits overview
+  • Discount eligibility
+  • Balance tracking
+  • Points earned (if a point system is added later)
+  • Upcoming events or member promos
+
+Staff/Admin Dashboard:
+  • Load or deduct balances manually
+  • Verify card codes
+  • Track member activity
+  • Issue invoices or receipts
+  • Manage promotions, events, and usage limits
+
+Technical Notes:
+– Wallet funds are only usable within the clinic.
+– Memberships are valid for 12 months and can be renewed up to 3 times per year.
+– Funds are deducted as treatments/services are used.
+– All services are eligible, unless otherwise specified.
+– Physical cards should have a QR code or unique ID for scanning.
+– Multi-language support (Spanish/English) is essential.
+– Visual design should reflect luxury and wellness: clean, elegant, and user-friendly.
